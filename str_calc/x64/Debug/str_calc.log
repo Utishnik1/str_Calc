@@ -1,0 +1,3 @@
+﻿  str_calc.cpp
+C:\Users\Vladimir\source\repos\str_calc\str_calc\str_calc.cpp(37,7): warning C4101: numbers_list: неиспользованная локальная переменная
+  str_calc.vcxproj -> C:\Users\Vladimir\source\repos\str_calc\x64\Debug\str_calc.exe
